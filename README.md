@@ -6,7 +6,7 @@ Project to study Spring Security with Json Web Tokens
 
 ## Built With
 
-The API was built with this technologies:
+The API was built with the following technologies:
 
 - [Java 11](https://www.java.com/en/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
