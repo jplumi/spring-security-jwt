@@ -2,7 +2,7 @@
 
 Project to study Spring Security with Json Web Tokens
 
-> This project is an API developed based on [AmigosCode](https://www.youtube.com/c/amigoscode) tutorial: [https://www.youtube.com/watch?v=VVn9OG9nfH0](https://www.youtube.com/watch?v=VVn9OG9nfH0).
+> This project is an API based on [AmigosCode](https://www.youtube.com/c/amigoscode) tutorial: [https://www.youtube.com/watch?v=VVn9OG9nfH0](https://www.youtube.com/watch?v=VVn9OG9nfH0).
 
 ## Built With
 
